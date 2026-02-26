@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[oc]
+.env
+*.duckdb
+.git/
+.gitignore
+.python-version
+.temp/
+.langgraph_api/
+pyproject.toml
+uv.lock
+README.md
+exemplo_readme.md
