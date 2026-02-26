@@ -100,3 +100,7 @@ http://localhost:8501
 ```
 
 > O banco de dados é criado dentro do container na primeira execução. Os dados não persistem após o container ser encerrado, pois não há volume mapeado.
+
+---
+
+*Documentação gerada com [Claude Code](https://claude.com/claude-code) e revisada por Lucas Janeiro.*
