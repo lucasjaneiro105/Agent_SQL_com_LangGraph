@@ -104,3 +104,11 @@ http://localhost:8501
 ---
 
 *Documentação gerada com [Claude Code](https://claude.com/claude-code) e revisada por Lucas Janeiro.*
+
+## ⚖️ Licença
+
+Este projeto está licenciado sob a **Polyform Noncommercial License 1.0.0**. 
+Isso significa que o código é aberto para estudos, testes e fins educacionais, 
+mas o **uso comercial é proibido** sem o consentimento prévio do autor.
+
+Para autorizações comerciais ou parcerias, entre em contato via LinkedIn ou e-mail.
